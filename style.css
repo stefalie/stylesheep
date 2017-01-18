@@ -6,12 +6,12 @@
 }
 
 html {
-  background: linear-gradient( 135deg, #446c37 25%, transparent 25%) 50px 0,
-              linear-gradient(-135deg, #446c37 25%, transparent 25%) 50px 0,
+  background: linear-gradient( 135deg, #446c37 25%, transparent 25%) 3em 0,
+              linear-gradient(-135deg, #446c37 25%, transparent 25%) 3em 0,
               linear-gradient( -45deg, #446c37 25%, transparent 25%),
               linear-gradient(  45deg, #446c37 25%, transparent 25%);
   background-color: #4b733d;
-  background-size: 100px 100px;
+  background-size: 6em 6em;
 }
 
 body {
